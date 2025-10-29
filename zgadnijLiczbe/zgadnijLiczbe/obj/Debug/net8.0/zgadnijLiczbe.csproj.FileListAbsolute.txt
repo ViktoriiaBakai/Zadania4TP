@@ -1,0 +1,14 @@
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\bin\Debug\net8.0\zgadnijLiczbe.exe
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\bin\Debug\net8.0\zgadnijLiczbe.deps.json
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\bin\Debug\net8.0\zgadnijLiczbe.runtimeconfig.json
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\bin\Debug\net8.0\zgadnijLiczbe.dll
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\bin\Debug\net8.0\zgadnijLiczbe.pdb
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.AssemblyInfoInputs.cache
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.AssemblyInfo.cs
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.csproj.CoreCompileInputs.cache
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.dll
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\refint\zgadnijLiczbe.dll
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.pdb
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\zgadnijLiczbe.genruntimeconfig.cache
+C:\Users\48729\source\repos\zgadnijLiczbe\zgadnijLiczbe\obj\Debug\net8.0\ref\zgadnijLiczbe.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zgadnijLiczbe/1.0.0": {
+        "runtime": {
+          "zgadnijLiczbe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zgadnijLiczbe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
